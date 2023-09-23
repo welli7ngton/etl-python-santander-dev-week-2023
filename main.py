@@ -33,7 +33,7 @@ for _id in user_ids:
 print(json.dumps(users, indent=2), 'aqui')
 
 
-openai.api_key = "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"
+openai.api_key = "CHANGE-ME"
 
 
 def generate_ai_news(user):
