@@ -14,7 +14,7 @@ OpenAI Python SDK (pode ser instalado via pip: pip install openai)
 
 ## Configuração Inicial
 
-Defina a sua chave de API da OpenAI no código. Substitua "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" pela sua chave de API da OpenAI.
+Defina a sua chave de API da OpenAI no código.
 
 ## Leitura do CSV
 
